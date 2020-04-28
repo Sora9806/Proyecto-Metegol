@@ -1,0 +1,19 @@
+.letrasH1{
+    font-family: 'Tahoma';
+    font-size: 37px;
+    color: #000000;
+}
+.letrasH2{
+    font-family: 'Tahoma';
+    font-size: 38px;
+}
+.bajada{
+    font-size: 18px;
+    color: #666;
+}
+p{
+   font-family: 'Verdana';
+    line-height: 27px;
+    color:#333
+
+}
